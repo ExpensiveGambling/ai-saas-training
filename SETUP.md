@@ -1,0 +1,1 @@
+I Now have github installed, gitbash, vercel, stripe, supabase and Node.JS only on my windows.

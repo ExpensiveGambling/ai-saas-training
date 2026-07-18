@@ -17,7 +17,7 @@ export default function Home() {
             Training Grounds, CheckPoint 1.
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Learning the Basics of git bash commands ,This was edited on mac , dealing with opening files (ex mkdir, ls, cd, pwd, etc.){" "}
+            Learning the Basics of git bash commands ,This was edited on mac , Also this edit is related to the branch, dealing with opening files (ex mkdir, ls, cd, pwd, etc.){" "}
             <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
